@@ -5,9 +5,9 @@ function useTitle() {
 
   return (
     <div>
-    {/* <h5>Hello {count}</h5>
+    <h5>Hello {count}</h5>
       <button onClick={() => setcount(count + 1)}>Count</button>
-    </div> */}
+    </div>
   );
 }
 export default useTitle;
